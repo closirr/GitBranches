@@ -1,0 +1,2 @@
+gitk --all  - visualise all branches
+vim commands https://stackoverflow.com/questions/11828270/how-to-exit-the-vim-editor
