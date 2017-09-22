@@ -5,7 +5,10 @@ class Greeter
   def greet
     "Hello, #{@who}"
   end
-   def bye
+  def bye
     "Bye, #{@who}"
+  end
+  def introduse
+    "Hello, I am Greeter"
   end
 end
